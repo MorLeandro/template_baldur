@@ -5,7 +5,7 @@
   position: relative;
 }
 
-#template_rael .template_main .t_text {
+#template_baldur .template_main .t_text {
   color: #F2F2F2;
   background-color: #fdf4df;
   width: 450px;
@@ -128,7 +128,7 @@
   background-position-y: center;
 }
 
-#template_baldur .t_menu .adv_label, #template_rael .t_menu .ficha_label {
+#template_baldur .t_menu .adv_label, #template_baldur .t_menu .ficha_label {
   background: rgba(0, 0, 0, 0.5);
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
@@ -154,7 +154,7 @@
   z-index: 0;
 }
 
-#template_baldur .t_menu input[value^="adv"]:checked ~ .adv_label, #template_rael .t_menu input[value^="ficha"]:checked ~ .ficha_label {
+#template_baldur .t_menu input[value^="adv"]:checked ~ .adv_label, #template_baldur .t_menu input[value^="ficha"]:checked ~ .ficha_label {
   background: rgba(0, 0, 0, 0.8);
 }
 
@@ -195,7 +195,7 @@
   font-weight: bold;
 }
 
-#template_baldur .display_info .display_adv, #template_rael .display_info .display_ficha {
+#template_baldur .display_info .display_adv, #template_baldur .display_info .display_ficha {
   display: none;
 }
 
